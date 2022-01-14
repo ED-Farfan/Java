@@ -1,0 +1,11 @@
+Para compilar el programa EjemploGSON.java se debe ejecutar el siguiente comando:
+
+javac -cp gson-2.8.6.jar EjemploGSON.java
+
+Para ejecutar el programa en Windows:
+
+java -cp gson-2.8.6.jar;. EjemploGSON
+
+Para ejecutar el programa en Linux:
+
+java -cp gson-2.8.6.jar:. EjemploGSON
